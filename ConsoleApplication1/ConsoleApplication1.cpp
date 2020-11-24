@@ -2,7 +2,6 @@
 //
 #include <iostream> 
 #include <vector> 
-#include "TaskSix.h"
 #include <cstring>
 #include <array>
 #include "lab2lib.h"

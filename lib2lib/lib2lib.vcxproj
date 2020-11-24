@@ -142,7 +142,6 @@
     <ClCompile Include="lab2lib.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Lab Assignment 2\TaskSix.h" />
     <ClInclude Include="lab2lib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
